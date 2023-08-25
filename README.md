@@ -35,4 +35,4 @@ When I was a child, I thought that people were taking a "sympatical" year, when 
 
 I mixed up "sympatical" and "sabbatical" year.
 
-[<< previous](https://github.com/vdourson2) || JUSTINE FRIGO || [next >>](https://github.com/Carole-GRD)
+[<< previous](https://github.com/vdourson2/markdown-challenge) || JUSTINE FRIGO || [next >>](https://github.com/Carole-GRD/markdown-challenge)
